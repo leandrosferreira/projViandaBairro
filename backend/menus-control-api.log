@@ -1,0 +1,168 @@
+2020-08-13T21:20:26.803Z [menus-control-api] info: POST /menu - {"id":8,"restaurant":"dfgdfgdfg","contact":"78877887","price":"0","type":"","isDeleted":false,"value":0,"timestamp":"2020-08-13T21:20:26.801Z"}
+2020-08-13T21:20:26.806Z [menus-control-api] info: POST /menu - {"id":8,"restaurant":"dfgdfgdfg","contact":"78877887","price":"0","type":"","isDeleted":false,"value":0,"timestamp":"2020-08-13T21:20:26.801Z"}
+2020-08-13T21:20:39.136Z [menus-control-api] info: DELETE /menu - " 8
+2020-08-13T21:23:07.896Z [menus-control-api] info: GET /menu
+2020-08-14T12:16:05.236Z [menus-control-api] info: API started!
+2020-08-14T12:16:05.240Z [menus-control-api] info: POST /menu - {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","type":"Arroz, Feijão, Língua ao Molho, Batata Doce, Salada Mista","price":"12.00","timestamp":"2020-08-14T12:16:05.240Z"}
+2020-08-14T12:16:05.244Z [menus-control-api] info: POST /menu - {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","type":"Arroz, Feijão, Frango Empanado, Aipim Frito, Salada, Refri","price":"12.00","timestamp":"2020-08-14T12:16:05.243Z"}
+2020-08-14T12:18:02.792Z [menus-control-api] info: GET /menu
+2020-08-14T12:18:20.190Z [menus-control-api] info: GET /menu
+2020-08-14T12:19:29.768Z [menus-control-api] info: PUT /menu - " {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","type":"arroz, feijao, carne ou frango, ovo frito batata frita, salada e refri 200 ml","price":"12.00","timestamp":"2020-08-14T12:19:29.766Z","restaurantLowerCase":"arty e sabor","contactLowerCase":"51991266297","typeLowerCase":"arroz, feijão, frango empanado, aipim frito, salada, refri","isDeleted":false}
+2020-08-14T12:19:48.725Z [menus-control-api] info: API started!
+2020-08-14T12:19:48.730Z [menus-control-api] info: POST /menu - {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","type":"Arroz, Feijão, Língua ao Molho, Batata Doce, Salada Mista","price":"12.00","timestamp":"2020-08-14T12:19:48.729Z"}
+2020-08-14T12:19:48.732Z [menus-control-api] info: POST /menu - {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","type":"arroz, feijao, carne ou frango, ovo frito batata frita, salada e refri 200 ml","price":"12.00","timestamp":"2020-08-14T12:19:48.731Z"}
+2020-08-14T13:27:52.765Z [menus-control-api] info: API started!
+2020-08-14T13:27:52.770Z [menus-control-api] info: POST /menu - {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","type":"Arroz, Feijão, Massa alho e óleo, Bife de carne ou frango com ovo, Salada mista","price":"12.00","timestamp":"2020-08-14T13:27:52.769Z"}
+2020-08-14T13:27:52.771Z [menus-control-api] info: POST /menu - {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","type":"arroz, feijao, carne ou frango, ovo frito batata frita, salada e refri 200 ml","price":"12.00","timestamp":"2020-08-14T13:27:52.771Z"}
+2020-08-14T13:33:47.952Z [menus-control-api] info: GET /menu
+2020-08-14T19:29:57.172Z [menus-control-api] info: API started!
+2020-08-14T19:29:57.175Z [menus-control-api] info: POST /menu - {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","type":"Arroz, Feijão, Massa alho e óleo, Bife de carne ou frango com ovo, Salada mista","price":"12.00","timestamp":"2020-08-14T19:29:57.175Z"}
+2020-08-14T19:29:57.177Z [menus-control-api] info: POST /menu - {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","type":"arroz, feijao, carne ou frango, ovo frito batata frita, salada e refri 200 ml","price":"12.00","timestamp":"2020-08-14T19:29:57.176Z"}
+2020-08-14T19:30:29.991Z [menus-control-api] info: GET /menu
+2020-08-17T11:03:02.792Z [menus-control-api] info: API started!
+2020-08-17T11:03:02.796Z [menus-control-api] info: POST /menu - {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","type":"Arroz, Feijão, Massa alho e óleo, Bife de carne ou frango com ovo, Salada mista","price":"12.00","timestamp":"2020-08-17T11:03:02.795Z"}
+2020-08-17T11:03:02.797Z [menus-control-api] info: POST /menu - {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","type":"arroz, feijao, carne ou frango, ovo frito batata frita, salada e refri 200 ml","price":"12.00","timestamp":"2020-08-17T11:03:02.796Z"}
+2020-08-17T11:03:56.042Z [menus-control-api] info: GET /menu
+2020-08-17T11:10:32.023Z [menus-control-api] info: GET /menu
+2020-08-17T12:20:32.178Z [menus-control-api] info: PUT /menu - " {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","type":"arroz, feijao, frango grelhado, massa alho e oleo, salada, refri 200ml","price":"12.00","timestamp":"2020-08-17T12:20:32.176Z","restaurantLowerCase":"arty e sabor","contactLowerCase":"51991266297","typeLowerCase":"arroz, feijao, carne ou frango, ovo frito batata frita, salada e refri 200 ml","isDeleted":false}
+2020-08-17T12:52:32.942Z [menus-control-api] info: PUT /menu - " {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","type":" arroz  feijão bife de frango empanado(caseiro)  pastel de pizza  salada mista","price":"12.00","timestamp":"2020-08-17T12:52:32.938Z","restaurantLowerCase":"delicias da marcia","contactLowerCase":"51984512027","typeLowerCase":"arroz, feijão, massa alho e óleo, bife de carne ou frango com ovo, salada mista","isDeleted":false}
+2020-08-17T12:52:48.471Z [menus-control-api] info: PUT /menu - " {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","type":" arroz,  feijão, bife de frango empanado(caseiro),  pastel de pizza,  salada mista","price":"12.00","timestamp":"2020-08-17T12:52:48.469Z","restaurantLowerCase":"delicias da marcia","contactLowerCase":"51984512027","typeLowerCase":"arroz, feijão, massa alho e óleo, bife de carne ou frango com ovo, salada mista","isDeleted":false}
+2020-08-18T12:23:17.038Z [menus-control-api] info: PUT /menu - " {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","type":"arroz  feijão  macarrão à carbonara  bife de carne  salada mista","price":"12.00","timestamp":"2020-08-18T12:23:17.035Z","restaurantLowerCase":"delicias da marcia","contactLowerCase":"51984512027","typeLowerCase":"arroz, feijão, massa alho e óleo, bife de carne ou frango com ovo, salada mista","isDeleted":false}
+2020-08-18T12:23:27.865Z [menus-control-api] info: PUT /menu - " {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","type":"arroz,  feijão,  macarrão à carbonara,  bife de carne,  salada mista","price":"12.00","timestamp":"2020-08-18T12:23:27.864Z","restaurantLowerCase":"delicias da marcia","contactLowerCase":"51984512027","typeLowerCase":"arroz, feijão, massa alho e óleo, bife de carne ou frango com ovo, salada mista","isDeleted":false}
+2020-08-18T12:24:46.436Z [menus-control-api] info: PUT /menu - " {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","type":"arroz, feijao, panqueca de carne, repolho colorido refogado, salada refri","price":"12.00","timestamp":"2020-08-18T12:24:46.435Z","restaurantLowerCase":"arty e sabor","contactLowerCase":"51991266297","typeLowerCase":"arroz, feijao, carne ou frango, ovo frito batata frita, salada e refri 200 ml","isDeleted":false}
+2020-08-18T16:41:32.038Z [menus-control-api] info: POST /menu - {"id":3,"restaurant":"joao","contact":"1234","price":"5","type":"","timestamp":"2020-08-18T16:41:32.037Z"}
+2020-08-18T16:41:32.045Z [menus-control-api] info: POST /menu - {"id":3,"restaurant":"joao","contact":"1234","price":"5","type":"","timestamp":"2020-08-18T16:41:32.037Z"}
+2020-08-18T16:41:47.450Z [menus-control-api] info: POST /menu - {"id":3,"restaurant":"joao","contact":"1234","price":"5","type":"","timestamp":"2020-08-18T16:41:47.448Z"}
+2020-08-18T16:41:47.451Z [menus-control-api] info: POST /menu - {"id":3,"restaurant":"joao","contact":"1234","price":"5","type":"","timestamp":"2020-08-18T16:41:47.448Z"}
+2020-08-18T16:41:51.320Z [menus-control-api] info: GET /menu
+2020-08-18T16:42:35.186Z [menus-control-api] info: DELETE /menu - " 3
+2020-08-18T16:42:41.241Z [menus-control-api] info: GET /menu
+2020-08-18T17:32:05.294Z [menus-control-api] info: GET /menu
+2020-08-18T17:32:35.278Z [menus-control-api] info: GET /menu
+2020-08-18T17:42:46.106Z [menus-control-api] info: GET /menu
+2020-08-18T17:43:42.190Z [menus-control-api] info: GET /menu
+2020-08-18T17:50:48.578Z [menus-control-api] info: GET /menu
+2020-08-18T17:51:18.598Z [menus-control-api] info: GET /menu
+2020-08-18T17:55:36.272Z [menus-control-api] info: GET /menu
+2020-08-18T17:56:10.994Z [menus-control-api] info: GET /menu
+2020-08-18T17:56:17.334Z [menus-control-api] info: GET /menu
+2020-08-18T17:56:41.880Z [menus-control-api] info: GET /menu
+2020-08-18T18:04:19.745Z [menus-control-api] info: GET /menu
+2020-08-18T18:04:30.893Z [menus-control-api] info: GET /menu
+2020-08-18T18:05:51.539Z [menus-control-api] info: GET /menu
+2020-08-18T18:06:08.976Z [menus-control-api] info: GET /menu
+2020-08-18T18:08:31.398Z [menus-control-api] info: GET /menu
+2020-08-18T18:09:29.296Z [menus-control-api] info: GET /menu
+2020-08-18T18:11:18.705Z [menus-control-api] info: GET /menu
+2020-08-18T18:11:54.802Z [menus-control-api] info: POST /menu - {"id":5,"restaurant":"Rê Lanches","contact":"51998597422","city":"Canoas","district":"Olaria","price":"12","type":"","timestamp":"2020-08-18T18:11:54.801Z"}
+2020-08-18T18:11:54.806Z [menus-control-api] info: POST /menu - {"id":5,"restaurant":"Rê Lanches","contact":"51998597422","city":"Canoas","district":"Olaria","price":"12","type":"","timestamp":"2020-08-18T18:11:54.801Z"}
+2020-08-18T18:26:05.027Z [menus-control-api] info: API started!
+2020-08-18T18:26:05.031Z [menus-control-api] info: POST /menu - {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","city":"Canoas","district":"Olaria","type":"","price":"12.00","timestamp":"2020-08-18T18:26:05.030Z"}
+2020-08-18T18:26:05.032Z [menus-control-api] info: POST /menu - {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","type":"arroz, feijao, carne ou frango, ovo frito batata frita, salada e refri 200 ml","price":"12.00","timestamp":"2020-08-18T18:26:05.032Z"}
+2020-08-18T18:26:43.612Z [menus-control-api] info: API started!
+2020-08-18T18:26:43.617Z [menus-control-api] info: POST /menu - {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","city":"Canoas","district":"Olaria","type":"","price":"0","timestamp":"2020-08-18T18:26:43.616Z"}
+2020-08-18T18:26:43.618Z [menus-control-api] info: POST /menu - {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","city":"Canoas","district":"Olaria","type":"","price":"0","timestamp":"2020-08-18T18:26:43.617Z"}
+2020-08-18T18:27:24.096Z [menus-control-api] info: API started!
+2020-08-18T18:27:24.099Z [menus-control-api] info: POST /menu - {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","city":"Canoas","district":"Olaria","type":"","price":"0","timestamp":"2020-08-18T18:27:24.099Z"}
+2020-08-18T18:27:24.101Z [menus-control-api] info: POST /menu - {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","city":"Canoas","district":"Olaria","type":"","price":"0","timestamp":"2020-08-18T18:27:24.100Z"}
+2020-08-18T18:27:24.103Z [menus-control-api] info: POST /menu - {"id":3,"restaurant":"Rê Lanches","contact":"51991266297","city":"Canoas","district":"Olaria","type":"","price":"0","timestamp":"2020-08-18T18:27:24.102Z"}
+2020-08-18T18:27:44.148Z [menus-control-api] info: API started!
+2020-08-18T18:27:44.153Z [menus-control-api] info: POST /menu - {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","city":"Canoas","district":"Olaria","type":"","price":"0","timestamp":"2020-08-18T18:27:44.151Z"}
+2020-08-18T18:27:44.154Z [menus-control-api] info: POST /menu - {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","city":"Canoas","district":"Olaria","type":"","price":"0","timestamp":"2020-08-18T18:27:44.154Z"}
+2020-08-18T18:27:44.156Z [menus-control-api] info: POST /menu - {"id":3,"restaurant":"Rê Lanches","contact":"51998597422","city":"Canoas","district":"Olaria","type":"","price":"0","timestamp":"2020-08-18T18:27:44.155Z"}
+2020-08-18T18:27:55.209Z [menus-control-api] info: GET /menu
+2020-08-18T18:28:20.338Z [menus-control-api] info: PUT /menu - " {"id":3,"restaurant":"Rê Lanches","contact":"51998597422","city":"Canoas","district":"Olaria","type":"","price":"0","timestamp":"2020-08-18T18:28:20.337Z","restaurantLowerCase":"rê lanches","contactLowerCase":"51998597422","typeLowerCase":"","isDeleted":false}
+2020-08-18T18:53:28.026Z [menus-control-api] info: GET /menu
+2020-08-18T18:54:12.602Z [menus-control-api] info: GET /menu
+2020-08-18T18:54:33.451Z [menus-control-api] info: GET /menu
+2020-08-18T19:08:20.513Z [menus-control-api] info: GET /menu
+2020-08-18T19:09:03.156Z [menus-control-api] info: GET /menu
+2020-08-18T19:09:45.441Z [menus-control-api] info: GET /menu
+2020-08-18T19:11:20.211Z [menus-control-api] info: GET /menu
+2020-08-18T19:11:22.476Z [menus-control-api] info: GET /menu
+2020-08-18T19:19:38.813Z [menus-control-api] info: GET /menu
+2020-08-18T19:19:46.256Z [menus-control-api] info: GET /menu
+2020-08-18T19:20:10.339Z [menus-control-api] info: GET /menu
+2020-08-18T19:20:22.027Z [menus-control-api] info: GET /menu
+2020-08-18T19:21:31.465Z [menus-control-api] info: GET /menu
+2020-08-18T19:22:49.018Z [menus-control-api] info: GET /menu
+2020-08-18T19:23:05.479Z [menus-control-api] info: GET /menu
+2020-08-18T19:24:16.757Z [menus-control-api] info: GET /menu
+2020-08-18T19:24:43.329Z [menus-control-api] info: GET /menu
+2020-08-18T19:25:46.968Z [menus-control-api] info: GET /menu
+2020-08-18T19:25:58.869Z [menus-control-api] info: GET /menu
+2020-08-18T19:27:02.326Z [menus-control-api] info: GET /menu
+2020-08-18T19:27:50.431Z [menus-control-api] info: GET /menu
+2020-08-18T19:28:18.551Z [menus-control-api] info: GET /menu
+2020-08-18T19:28:30.838Z [menus-control-api] info: GET /menu
+2020-08-18T19:28:53.797Z [menus-control-api] info: GET /menu
+2020-08-18T19:29:23.181Z [menus-control-api] info: GET /menu
+2020-08-18T19:29:35.273Z [menus-control-api] info: GET /menu
+2020-08-18T19:30:25.789Z [menus-control-api] info: GET /menu
+2020-08-18T19:30:53.772Z [menus-control-api] info: GET /menu
+2020-08-18T19:33:09.718Z [menus-control-api] info: GET /menu
+2020-08-18T19:33:53.751Z [menus-control-api] info: GET /menu
+2020-08-18T19:34:46.256Z [menus-control-api] info: GET /menu
+2020-08-18T19:35:06.286Z [menus-control-api] info: GET /menu
+2020-08-18T19:35:17.941Z [menus-control-api] info: GET /menu
+2020-08-18T19:35:44.405Z [menus-control-api] info: GET /menu
+2020-08-18T19:35:56.757Z [menus-control-api] info: GET /menu
+2020-08-18T19:36:09.194Z [menus-control-api] info: GET /menu
+2020-08-18T19:36:36.385Z [menus-control-api] info: GET /menu
+2020-08-18T19:36:48.661Z [menus-control-api] info: GET /menu
+2020-08-18T19:37:03.302Z [menus-control-api] info: GET /menu
+2020-08-18T19:37:18.015Z [menus-control-api] info: GET /menu
+2020-08-18T19:37:43.774Z [menus-control-api] info: GET /menu
+2020-08-18T19:38:00.934Z [menus-control-api] info: GET /menu
+2020-08-18T19:38:12.518Z [menus-control-api] info: GET /menu
+2020-08-18T19:38:29.530Z [menus-control-api] info: GET /menu
+2020-08-18T19:38:43.730Z [menus-control-api] info: GET /menu
+2020-08-18T19:39:15.053Z [menus-control-api] info: GET /menu
+2020-08-18T19:39:29.800Z [menus-control-api] info: GET /menu
+2020-08-18T19:39:44.574Z [menus-control-api] info: GET /menu
+2020-08-18T19:42:34.928Z [menus-control-api] info: GET /menu
+2020-08-18T19:43:01.133Z [menus-control-api] info: GET /menu
+2020-08-18T19:43:19.264Z [menus-control-api] info: GET /menu
+2020-08-18T19:43:22.674Z [menus-control-api] info: GET /menu
+2020-08-18T19:43:53.740Z [menus-control-api] info: GET /menu
+2020-08-18T19:44:25.441Z [menus-control-api] info: GET /menu
+2020-08-18T19:53:05.341Z [menus-control-api] info: GET /menu
+2020-08-18T19:56:04.314Z [menus-control-api] info: GET /menu
+2020-08-18T19:56:18.389Z [menus-control-api] info: GET /menu
+2020-08-18T20:00:55.247Z [menus-control-api] info: PUT /menu - " {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","city":"Canoas","district":"Olaria","type":"","price":"012","timestamp":"2020-08-18T20:00:55.245Z","restaurantLowerCase":"arty e sabor","contactLowerCase":"51991266297","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:00:59.510Z [menus-control-api] info: PUT /menu - " {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","city":"Canoas","district":"Olaria","type":"","price":"12","timestamp":"2020-08-18T20:00:59.508Z","restaurantLowerCase":"arty e sabor","contactLowerCase":"51991266297","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:01:02.409Z [menus-control-api] info: PUT /menu - " {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","city":"Canoas","district":"Olaria","type":"","price":"12","timestamp":"2020-08-18T20:01:02.408Z","restaurantLowerCase":"delicias da marcia","contactLowerCase":"51984512027","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:01:10.133Z [menus-control-api] info: PUT /menu - " {"id":3,"restaurant":"Rê Lanches","contact":"51998597422","city":"Canoas","district":"Olaria","type":"","price":"12.01","timestamp":"2020-08-18T20:01:10.131Z","restaurantLowerCase":"rê lanches","contactLowerCase":"51998597422","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:01:14.345Z [menus-control-api] info: PUT /menu - " {"id":3,"restaurant":"Rê Lanches","contact":"51998597422","city":"Canoas","district":"Olaria","type":"","price":"12","timestamp":"2020-08-18T20:01:14.344Z","restaurantLowerCase":"rê lanches","contactLowerCase":"51998597422","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:01:21.112Z [menus-control-api] info: PUT /menu - " {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","city":"Canoas","district":"Olaria","type":"","price":"12.00","timestamp":"2020-08-18T20:01:21.110Z","restaurantLowerCase":"arty e sabor","contactLowerCase":"51991266297","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:01:25.418Z [menus-control-api] info: PUT /menu - " {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","city":"Canoas","district":"Olaria","type":"","price":"12.00","timestamp":"2020-08-18T20:01:25.416Z","restaurantLowerCase":"delicias da marcia","contactLowerCase":"51984512027","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:01:30.052Z [menus-control-api] info: PUT /menu - " {"id":3,"restaurant":"Rê Lanches","contact":"51998597422","city":"Canoas","district":"Olaria","type":"","price":"12.00","timestamp":"2020-08-18T20:01:30.050Z","restaurantLowerCase":"rê lanches","contactLowerCase":"51998597422","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:01:54.741Z [menus-control-api] info: PUT /menu - " {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","city":"Canoas","district":"Olaria","type":"🍚 arroz ◼️ feijão 🍝 macarrão à carbonara 🥩 bife de carne 🥗 salada mista","price":"12.00","timestamp":"2020-08-18T20:01:54.740Z","restaurantLowerCase":"arty e sabor","contactLowerCase":"51991266297","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:02:14.077Z [menus-control-api] info: PUT /menu - " {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","city":"Canoas","district":"Olaria","type":"🍚 arroz ◼️ feijão 🍝 macarrão à carbonara 🥩 bife de carne 🥗 salada mista","price":"12.00","timestamp":"2020-08-18T20:02:14.068Z","restaurantLowerCase":"arty e sabor","contactLowerCase":"51991266297","typeLowerCase":"","isDeleted":false}
+2020-08-18T20:09:44.951Z [menus-control-api] info: GET /menu
+2020-08-18T20:09:56.140Z [menus-control-api] info: GET /menu
+2020-08-18T20:10:32.686Z [menus-control-api] info: GET /menu
+2020-08-18T20:10:50.482Z [menus-control-api] info: GET /menu
+2020-08-18T20:11:05.881Z [menus-control-api] info: GET /menu
+2020-08-18T20:11:30.691Z [menus-control-api] info: GET /menu
+2020-08-18T20:12:15.333Z [menus-control-api] info: GET /menu
+2020-08-18T20:12:23.902Z [menus-control-api] info: GET /menu
+2020-08-18T20:13:19.771Z [menus-control-api] info: GET /menu
+2020-08-18T20:14:56.753Z [menus-control-api] info: GET /menu
+2020-08-18T20:15:01.631Z [menus-control-api] info: GET /menu
+2020-08-18T20:15:14.499Z [menus-control-api] info: GET /menu
+2020-08-18T20:15:32.305Z [menus-control-api] info: GET /menu
+2020-08-18T20:16:27.352Z [menus-control-api] info: GET /menu
+2020-08-18T20:16:53.005Z [menus-control-api] info: GET /menu
+2020-08-18T20:17:26.174Z [menus-control-api] info: GET /menu
+2020-08-18T20:17:51.897Z [menus-control-api] info: GET /menu
+2020-08-18T20:17:57.899Z [menus-control-api] info: GET /menu
+2020-08-18T20:18:17.274Z [menus-control-api] info: GET /menu
+2020-08-18T20:18:49.736Z [menus-control-api] info: GET /menu
+2020-08-18T20:19:27.638Z [menus-control-api] info: GET /menu
+2020-08-18T20:20:14.021Z [menus-control-api] info: GET /menu
+2020-08-18T20:20:22.004Z [menus-control-api] info: GET /menu
+2020-08-18T20:20:57.117Z [menus-control-api] info: GET /menu
+2020-08-18T20:21:19.388Z [menus-control-api] info: GET /menu
+2020-08-19T11:50:44.362Z [menus-control-api] info: PUT /menu - " {"id":2,"restaurant":"Arty e Sabor","contact":"51991266297","city":"Canoas","district":"Olaria","type":"arroz, feijão, frango empanado, massa, salada, refri 200 ml","price":"12.00","timestamp":"2020-08-19T11:50:44.360Z","restaurantLowerCase":"arty e sabor","contactLowerCase":"51991266297","typeLowerCase":"🍚 arroz ◼️ feijão 🍝 macarrão à carbonara 🥩 bife de carne 🥗 salada mista","isDeleted":false}
+2020-08-19T11:55:52.791Z [menus-control-api] info: PUT /menu - " {"id":1,"restaurant":"Delicias da Marcia","contact":"51984512027","city":"Canoas","district":"Olaria","type":"🍚 arroz ◼️ feijão 🐔 frango com molho 🍙aipim 🥗 salada mista","price":"12.00","timestamp":"2020-08-19T11:55:52.789Z","restaurantLowerCase":"delicias da marcia","contactLowerCase":"51984512027","typeLowerCase":"","isDeleted":false}
