@@ -2,27 +2,6 @@ import axios from 'axios';
 
 const API_URL = 'http://localhost:3001/menu/';
 
-const GRADE_VALIDATION = [
-  {
-    id: 1,
-    gradeType: 'Exercícios',
-    minValue: 0,
-    maxValue: 10,
-  },
-  {
-    id: 2,
-    gradeType: 'Trabalho Prático',
-    minValue: 0,
-    maxValue: 40,
-  },
-  {
-    id: 3,
-    gradeType: 'Desafio',
-    minValue: 0,
-    maxValue: 50,
-  },
-];
-
 async function getAllGrades() {
   const res = await axios.get(API_URL);
 
@@ -38,18 +17,6 @@ async function getAllGrades() {
     };
   });
 
-  /* let allStudents = new Set();
-  grades.forEach((grade) => allStudents.add(grade.restaurant));
-  allStudents = Array.from(allStudents);
-
-  let allSubjects = new Set();
-  grades.forEach((grade) => allSubjects.add(grade.subject));
-  allSubjects = Array.from(allSubjects);
-
-  let allGradeTypes = new Set();
-  grades.forEach((grade) => allGradeTypes.add(grade.type));
-  allGradeTypes = Array.from(allGradeTypes);*/
-
   let maxId = -1;
   grades.forEach(({ id }) => {
     if (id > maxId) {
@@ -58,19 +25,6 @@ async function getAllGrades() {
   });
 
   let nextId = maxId + 1;
-  /*
-  const allCombinations = [];
-  allStudents.forEach((restaurant) => {
-    allSubjects.forEach((subject) => {
-      allGradeTypes.forEach((type) => {
-        allCombinations.push({
-          restaurant,
-          subject,
-          type,
-        });
-      });
-    });
-  });*/
 
   grades.forEach(({ restaurant, contact, type, price }) => {
     const hasItem = grades.find((grade) => {
@@ -120,23 +74,9 @@ async function deleteGrade(grade) {
   return response.data;
 }
 
-async function getValidationFromGradeType(gradeType) {
-  const gradeValidation = GRADE_VALIDATION.find(
-    (item) => item.gradeType === gradeType
-  );
-
-  const { minValue, maxValue } = gradeValidation;
-
-  return {
-    minValue,
-    maxValue,
-  };
-}
-
 export {
   getAllGrades,
   insertGrade,
   updateGrade,
   deleteGrade,
-  getValidationFromGradeType,
 };

@@ -4,13 +4,13 @@
   "description": "",
   "main": "src/app.js",
   "scripts": {
-    "start": "nodemon --experimental-modules ./src/app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon -r esm  ./src/app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "esm": "^3.2.25",
     "express": "^4.17.1",
     "nodemon": "^2.0.7",
     "winston": "^3.3.3"

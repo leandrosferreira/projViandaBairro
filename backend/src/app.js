@@ -23,50 +23,7 @@ app.use(express.static('public'));
 app.use('/images', express.static('public'));
 app.use('/menu', menusRouter);
 
-/**
- * Função para simular algumas
- * notas e já ter algo pronto
- * na API
- */
-/*function simulateMenus() {
-  const restaurants = ['Marcia', 'Arty e Sabor', 'DownLicias'];
-  const subjects = ['956845215', '984576845', '975843651'];
-  const types = ['risotto', 'alaminuta', 'carreteiro'];
-  const maxMenus = [10, 40, 50];
-
-  const menus = [];
-
-  restaurants.forEach((restaurant) => {
-    types.forEach((type, index) => {
-      subjects.forEach((subject) => {
-        const value = Math.ceil(Math.random() * maxMenus[index]);
-
-        const menu = {
-          restaurant,
-          subject,
-          type,
-          value,
-        };
-
-        menus.push(menu);
-      });
-    });
-  });
-
-  const postAllMenus = async () => {
-    for (let i = 0; i < menus.length; i++) {
-      await postMenu(menus[i]);
-    }
-  };
-
-  postAllMenus();
-} */
-
 function simulateMenus() {
-  /*const restaurants = ['Marcia', 'Arty e Sabor', 'DownLicias'];
-  const subjects = ['956845215', '984576845', '975843651'];
-  const types = ['risotto', 'alaminuta', 'carreteiro'];
-  const maxMenus = [10, 40, 50];*/
 
   const menus = [];
 
